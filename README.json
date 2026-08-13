@@ -1,0 +1,288 @@
+{
+  "items": [
+    {
+      "description": "The official build system of Seastar is CMake. But now Seastar can now be brought into a Bazel project using this https://registry.bazel.build/modules/seastar. It's as easy as adding this to your :\nYou'll still need to install several system dependencies, but this set should reduce over time. This is receipe was contributed by Redpanda which has now officially moved to a 100% Bazel build.",
+      "items": [],
+      "title": "Building with Bazel"
+    },
+    {
+      "description": "Systems and projects using Seastar",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ceph",
+          "description": "Distributed storage system for object, block, and file",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The seastar-based storage engine is called Crimson",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-12T18:37:47Z",
+                "owner": "ceph",
+                "repo": "ceph",
+                "stars": 16923
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T18:37:47Z",
+            "owner": "ceph",
+            "repo": "ceph",
+            "stars": 16923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scylladb",
+          "description": "Replacement for Apache Cassandra and Amazon DynamoDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:57:03Z",
+            "owner": "scylladb",
+            "repo": "scylladb",
+            "stars": 15704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redpanda",
+          "description": "Replacement for Apache Kafka designed for modern hardware",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:33:01Z",
+            "owner": "redpanda-data",
+            "repo": "redpanda",
+            "stars": 12437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pedis/1store",
+          "description": "Replacement for Redis written in Seastar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-10-02T13:50:45Z",
+            "owner": "fastio",
+            "repo": "1store",
+            "stars": 1329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMF",
+          "description": "RPC framework built for microseconds latencies using Seastar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-04-12T05:44:31Z",
+            "owner": "smfrpc",
+            "repo": "smf",
+            "stars": 761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CPV",
+          "description": "Web framework written in C++ and Seastar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-06-22T05:03:59Z",
+            "owner": "cpv-project",
+            "repo": "cpv-framework",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hiactor",
+          "description": "Hiactor is a distributed actor framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-14T09:02:12Z",
+            "owner": "alibaba",
+            "repo": "hiactor",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RageDB",
+          "description": "In Memory Property Graph Server using the Shared Nothing design from Seastar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-13T15:13:09Z",
+            "owner": "ragedb",
+            "repo": "ragedb",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chogori",
+          "description": "Low-latency distributed OLTP database",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-04-01T01:01:25Z",
+            "owner": "futurewei-cloud",
+            "repo": "chogori-platform",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parquet4Seastar",
+          "description": "Parquet file format implementation for use in Seastar projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-07-31T10:49:39Z",
+            "owner": "michoecho",
+            "repo": "parquet4seastar",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shredder",
+          "description": "Research prototype for SoCC '19 paper embedding v8 in Seastar",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nanoservices",
+              "description": "Some relationship to Shredder",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-07-31T06:25:23Z",
+                "owner": "utah-scs",
+                "repo": "nanoservices",
+                "stars": 8
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-07-10T04:37:22Z",
+            "owner": "utah-scs",
+            "repo": "shredder",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpiderDB",
+          "description": "An on-disk key-value database based on a b-link tree",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-07-06T17:33:56Z",
+            "owner": "chungphb",
+            "repo": "spiderdb",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ministun",
+          "description": "RFC 8489 STUN server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-03-23T15:32:59Z",
+            "owner": "nguyenminh-phuc",
+            "repo": "ministun",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mithril",
+          "description": "Client-server framework inspired by Netty",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-04-05T03:17:06Z",
+            "owner": "salahsheikh",
+            "repo": "mithril",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "Resources for learning Seastar",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Official tutorial",
+          "description": "a comprehensive tutorial from the creators of Seastar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:38:04Z",
+            "owner": "scylladb",
+            "repo": "seastar",
+            "stars": 9328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seabrute",
+          "description": "a selfstudy project for learning seastar by implementing distributed password bruteforce",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-11-03T06:39:51Z",
+            "owner": "VictorDenisov",
+            "repo": "seabrute",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contributors"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:10:37.943Z",
+    "original_repository": "dotnwat/awesome-seastar",
+    "original_repository_sha": "bf96284f56fd4e3005c2ee5b047c050dae6fd54d",
+    "enhanced_repository": "enhansome/enhansome-seastar",
+    "enhanced_repository_description": null,
+    "title": "Awesome Seastar with stars"
+  }
+}
