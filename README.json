@@ -21,20 +21,20 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-12T18:37:47Z",
+                "last_commit": "2026-08-13T22:49:43Z",
                 "owner": "ceph",
                 "repo": "ceph",
-                "stars": 16923
+                "stars": 16929
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T18:37:47Z",
+            "last_commit": "2026-08-13T22:49:43Z",
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16923
+            "stars": 16929
           }
         },
         {
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T22:57:03Z",
+            "last_commit": "2026-08-14T02:45:04Z",
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15704
+            "stars": 15705
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T00:33:01Z",
+            "last_commit": "2026-08-14T02:06:32Z",
             "owner": "redpanda-data",
             "repo": "redpanda",
-            "stars": 12437
+            "stars": 12442
           }
         },
         {
@@ -248,10 +248,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T20:38:04Z",
+            "last_commit": "2026-08-13T14:17:25Z",
             "owner": "scylladb",
             "repo": "seastar",
-            "stars": 9328
+            "stars": 9329
           }
         },
         {
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:10:37.943Z",
+    "last_updated": "2026-08-14T04:56:46.893Z",
     "original_repository": "dotnwat/awesome-seastar",
     "original_repository_sha": "bf96284f56fd4e3005c2ee5b047c050dae6fd54d",
     "enhanced_repository": "enhansome/enhansome-seastar",
