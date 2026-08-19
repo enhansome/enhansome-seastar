@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "The official build system of Seastar is CMake. But now Seastar can now be brought into a Bazel project using this https://registry.bazel.build/modules/seastar. It's as easy as adding this to your :\nYou'll still need to install several system dependencies, but this set should reduce over time. This is receipe was contributed by Redpanda which has now officially moved to a 100% Bazel build.",
-      "items": [],
-      "title": "Building with Bazel"
-    },
-    {
       "description": "Systems and projects using Seastar",
       "items": [
         {
@@ -20,21 +15,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2310495,
                 "language": "C++",
-                "last_commit": "2026-08-19T01:45:12Z",
+                "last_commit": "2026-08-19T09:56:38Z",
                 "owner": "ceph",
                 "repo": "ceph",
-                "stars": 16945
+                "stars": 16947
               }
             }
           ],
           "repo_info": {
             "archived": false,
+            "id": 2310495,
             "language": "C++",
-            "last_commit": "2026-08-19T01:45:12Z",
+            "last_commit": "2026-08-19T09:56:38Z",
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16945
+            "stars": 16947
           }
         },
         {
@@ -44,11 +41,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-18T21:54:35Z",
+            "last_commit": "2026-08-19T10:47:19Z",
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15712
+            "stars": 15714
           }
         },
         {
@@ -58,11 +56,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 309512982,
             "language": "C++",
-            "last_commit": "2026-08-18T21:23:53Z",
+            "last_commit": "2026-08-19T11:12:18Z",
             "owner": "redpanda-data",
             "repo": "redpanda",
-            "stars": 12461
+            "stars": 12463
           }
         },
         {
@@ -72,6 +71,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64937427,
             "language": "C++",
             "last_commit": "2019-10-02T13:50:45Z",
             "owner": "fastio",
@@ -86,6 +86,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49887371,
             "language": "C++",
             "last_commit": "2023-04-12T05:44:31Z",
             "owner": "smfrpc",
@@ -100,6 +101,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114583369,
             "language": "C++",
             "last_commit": "2023-06-22T05:03:59Z",
             "owner": "cpv-project",
@@ -114,6 +116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 490529025,
             "language": "C++",
             "last_commit": "2024-06-14T09:02:12Z",
             "owner": "alibaba",
@@ -128,6 +131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383927661,
             "language": "C++",
             "last_commit": "2026-07-13T15:13:09Z",
             "owner": "ragedb",
@@ -142,6 +146,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 261390196,
             "language": "C++",
             "last_commit": "2023-04-01T01:01:25Z",
             "owner": "futurewei-cloud",
@@ -156,6 +161,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259503649,
             "language": "C++",
             "last_commit": "2020-07-31T10:49:39Z",
             "owner": "michoecho",
@@ -175,6 +181,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 237715765,
                 "language": "C++",
                 "last_commit": "2025-07-31T06:25:23Z",
                 "owner": "utah-scs",
@@ -185,6 +192,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 278538992,
             "language": "C++",
             "last_commit": "2020-07-10T04:37:22Z",
             "owner": "utah-scs",
@@ -199,6 +207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 358644047,
             "language": "C++",
             "last_commit": "2021-07-06T17:33:56Z",
             "owner": "chungphb",
@@ -213,6 +222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470697991,
             "language": "C++",
             "last_commit": "2022-03-23T15:32:59Z",
             "owner": "nguyenminh-phuc",
@@ -227,6 +237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 347783006,
             "language": "C++",
             "last_commit": "2021-04-05T03:17:06Z",
             "owner": "salahsheikh",
@@ -247,11 +258,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23061798,
             "language": "C++",
             "last_commit": "2026-08-18T13:26:39Z",
             "owner": "scylladb",
             "repo": "seastar",
-            "stars": 9335
+            "stars": 9336
           }
         },
         {
@@ -261,6 +273,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80857171,
             "language": "C++",
             "last_commit": "2017-11-03T06:39:51Z",
             "owner": "VictorDenisov",
@@ -270,16 +283,12 @@
         }
       ],
       "title": "Learning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:53:21.418Z",
+    "last_updated": "2026-08-19T12:54:47.342Z",
     "original_repository": "dotnwat/awesome-seastar",
+    "original_repository_id": 340950460,
     "original_repository_sha": "bf96284f56fd4e3005c2ee5b047c050dae6fd54d",
     "enhanced_repository": "enhansome/enhansome-seastar",
     "enhanced_repository_description": null,
