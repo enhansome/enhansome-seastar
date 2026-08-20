@@ -18,16 +18,16 @@ The official build system of Seastar is CMake. But now Seastar can now be brough
 bazel_dep(name = "seastar", version = "25.08.0-20250807194611-1520326e6032")
 ```
 
-You'll still need to install several system dependencies, but this set should reduce over time. This is receipe was contributed by [Redpanda](https://github.com/redpanda-data/redpanda) ⭐ 12,463 | 🐛 628 | 🌐 C++ | 📅 2026-08-19 which has now officially moved to a 100% Bazel build.
+You'll still need to install several system dependencies, but this set should reduce over time. This is receipe was contributed by [Redpanda](https://github.com/redpanda-data/redpanda) ⭐ 12,463 | 🐛 624 | 🌐 C++ | 📅 2026-08-20 which has now officially moved to a 100% Bazel build.
 
 ## Projects
 
 *Systems and projects using Seastar*
 
-* [Ceph](https://github.com/ceph/ceph) ⭐ 16,947 | 🐛 1,308 | 🌐 C++ | 📅 2026-08-19 - Distributed storage system for object, block, and file
-  * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson) ⭐ 16,947 | 🐛 1,308 | 🌐 C++ | 📅 2026-08-19
-* [Scylladb](https://github.com/scylladb/scylla) ⭐ 15,714 | 🐛 3,559 | 🌐 C++ | 📅 2026-08-19 - Replacement for Apache Cassandra and Amazon DynamoDB
-* [Redpanda](https://github.com/redpanda-data/redpanda/) ⭐ 12,463 | 🐛 628 | 🌐 C++ | 📅 2026-08-19 - Replacement for Apache Kafka designed for modern hardware
+* [Ceph](https://github.com/ceph/ceph) ⭐ 16,948 | 🐛 1,308 | 🌐 C++ | 📅 2026-08-20 - Distributed storage system for object, block, and file
+  * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson) ⭐ 16,948 | 🐛 1,308 | 🌐 C++ | 📅 2026-08-20
+* [Scylladb](https://github.com/scylladb/scylla) ⭐ 15,718 | 🐛 3,557 | 🌐 C++ | 📅 2026-08-20 - Replacement for Apache Cassandra and Amazon DynamoDB
+* [Redpanda](https://github.com/redpanda-data/redpanda/) ⭐ 12,463 | 🐛 624 | 🌐 C++ | 📅 2026-08-20 - Replacement for Apache Kafka designed for modern hardware
 * [Pedis/1store](https://github.com/fastio/1store) ⭐ 1,329 | 🐛 26 | 🌐 C++ | 📅 2019-10-02 - Replacement for Redis written in Seastar
 * [SMF](https://github.com/smfrpc/smf) ⭐ 761 | 🐛 33 | 🌐 C++ | 📅 2023-04-12 - RPC framework built for microseconds latencies using Seastar
 * [CPV](https://github.com/cpv-project/cpv-framework) ⭐ 121 | 🐛 17 | 🌐 C++ | 📅 2023-06-22 - Web framework written in C++ and Seastar
@@ -46,7 +46,7 @@ You'll still need to install several system dependencies, but this set should re
 
 *Resources for learning Seastar*
 
-* [Official tutorial](https://github.com/scylladb/seastar/blob/master/doc/tutorial.md) ⭐ 9,336 | 🐛 569 | 🌐 C++ | 📅 2026-08-18 - a comprehensive tutorial from the creators of Seastar
+* [Official tutorial](https://github.com/scylladb/seastar/blob/master/doc/tutorial.md) ⭐ 9,336 | 🐛 569 | 🌐 C++ | 📅 2026-08-19 - a comprehensive tutorial from the creators of Seastar
 * [Seabrute](https://github.com/VictorDenisov/seabrute) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2017-11-03 - a selfstudy project for learning seastar by implementing distributed password bruteforce
 * [Seastar internals](https://makedist.com/projects/seastar-internals/) - is a series of deep dives into various Seastar components
 * [Asynchronous Programming with Seastar](http://nadav.harel.org.il/seastar/) - is a series of tutorials covering Seastar compnents
@@ -75,4 +75,4 @@ These appear to no longer exist :(
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

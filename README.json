@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 2310495,
                 "language": "C++",
-                "last_commit": "2026-08-19T09:56:38Z",
+                "last_commit": "2026-08-20T01:50:43Z",
                 "owner": "ceph",
                 "repo": "ceph",
-                "stars": 16947
+                "stars": 16948
               }
             }
           ],
@@ -28,10 +28,10 @@
             "archived": false,
             "id": 2310495,
             "language": "C++",
-            "last_commit": "2026-08-19T09:56:38Z",
+            "last_commit": "2026-08-20T01:50:43Z",
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16947
+            "stars": 16948
           }
         },
         {
@@ -43,10 +43,10 @@
             "archived": false,
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-19T10:47:19Z",
+            "last_commit": "2026-08-20T03:39:01Z",
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15714
+            "stars": 15718
           }
         },
         {
@@ -58,7 +58,7 @@
             "archived": false,
             "id": 309512982,
             "language": "C++",
-            "last_commit": "2026-08-19T11:12:18Z",
+            "last_commit": "2026-08-20T03:13:08Z",
             "owner": "redpanda-data",
             "repo": "redpanda",
             "stars": 12463
@@ -260,7 +260,7 @@
             "archived": false,
             "id": 23061798,
             "language": "C++",
-            "last_commit": "2026-08-18T13:26:39Z",
+            "last_commit": "2026-08-19T19:00:11Z",
             "owner": "scylladb",
             "repo": "seastar",
             "stars": 9336
@@ -286,7 +286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:54:47.342Z",
+    "last_updated": "2026-08-20T03:53:45.168Z",
     "original_repository": "dotnwat/awesome-seastar",
     "original_repository_id": 340950460,
     "original_repository_sha": "bf96284f56fd4e3005c2ee5b047c050dae6fd54d",
