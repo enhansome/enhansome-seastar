@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 2310495,
                 "language": "C++",
-                "last_commit": "2026-08-21T01:46:51Z",
+                "last_commit": "2026-08-22T01:03:41Z",
                 "owner": "ceph",
                 "repo": "ceph",
-                "stars": 16950
+                "stars": 16954
               }
             }
           ],
@@ -28,10 +28,10 @@
             "archived": false,
             "id": 2310495,
             "language": "C++",
-            "last_commit": "2026-08-21T01:46:51Z",
+            "last_commit": "2026-08-22T01:03:41Z",
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16950
+            "stars": 16954
           }
         },
         {
@@ -43,10 +43,10 @@
             "archived": false,
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-20T17:29:41Z",
+            "last_commit": "2026-08-22T03:20:57Z",
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15718
+            "stars": 15719
           }
         },
         {
@@ -58,10 +58,10 @@
             "archived": false,
             "id": 309512982,
             "language": "C++",
-            "last_commit": "2026-08-20T07:20:54Z",
+            "last_commit": "2026-08-22T00:45:06Z",
             "owner": "redpanda-data",
             "repo": "redpanda",
-            "stars": 12463
+            "stars": 12465
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2026-08-19T19:00:11Z",
             "owner": "scylladb",
             "repo": "seastar",
-            "stars": 9338
+            "stars": 9341
           }
         },
         {
@@ -286,7 +286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:56:19.720Z",
+    "last_updated": "2026-08-22T03:49:57.720Z",
     "original_repository": "dotnwat/awesome-seastar",
     "original_repository_id": 340950460,
     "original_repository_sha": "bf96284f56fd4e3005c2ee5b047c050dae6fd54d",
