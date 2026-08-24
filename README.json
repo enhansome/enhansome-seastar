@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 2310495,
                 "language": "C++",
-                "last_commit": "2026-08-24T01:49:02Z",
+                "last_commit": "2026-08-24T14:31:28Z",
                 "owner": "ceph",
                 "repo": "ceph",
-                "stars": 16958
+                "stars": 16960
               }
             }
           ],
@@ -28,10 +28,10 @@
             "archived": false,
             "id": 2310495,
             "language": "C++",
-            "last_commit": "2026-08-24T01:49:02Z",
+            "last_commit": "2026-08-24T14:31:28Z",
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16958
+            "stars": 16960
           }
         },
         {
@@ -43,10 +43,10 @@
             "archived": false,
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-24T03:57:50Z",
+            "last_commit": "2026-08-24T14:16:49Z",
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15720
+            "stars": 15721
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-22T00:45:06Z",
             "owner": "redpanda-data",
             "repo": "redpanda",
-            "stars": 12473
+            "stars": 12478
           }
         },
         {
@@ -260,7 +260,7 @@
             "archived": false,
             "id": 23061798,
             "language": "C++",
-            "last_commit": "2026-08-19T19:00:11Z",
+            "last_commit": "2026-08-24T10:17:03Z",
             "owner": "scylladb",
             "repo": "seastar",
             "stars": 9342
@@ -286,7 +286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:01:13.480Z",
+    "last_updated": "2026-08-24T14:41:07.968Z",
     "original_repository": "dotnwat/awesome-seastar",
     "original_repository_id": 340950460,
     "original_repository_sha": "bf96284f56fd4e3005c2ee5b047c050dae6fd54d",
