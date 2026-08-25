@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-25T01:32:51Z",
                 "owner": "ceph",
                 "repo": "ceph",
-                "stars": 16961
+                "stars": 16962
               }
             }
           ],
@@ -31,7 +31,7 @@
             "last_commit": "2026-08-25T01:32:51Z",
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16961
+            "stars": 16962
           }
         },
         {
@@ -43,10 +43,10 @@
             "archived": false,
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-24T22:56:29Z",
+            "last_commit": "2026-08-25T05:10:48Z",
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15722
+            "stars": 15724
           }
         },
         {
@@ -286,7 +286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:55:02.430Z",
+    "last_updated": "2026-08-25T06:34:49.497Z",
     "original_repository": "dotnwat/awesome-seastar",
     "original_repository_id": 340950460,
     "original_repository_sha": "bf96284f56fd4e3005c2ee5b047c050dae6fd54d",
