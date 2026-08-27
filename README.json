@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 2310495,
                 "language": "C++",
-                "last_commit": "2026-08-25T18:56:43Z",
+                "last_commit": "2026-08-27T08:25:57Z",
                 "owner": "ceph",
                 "repo": "ceph",
-                "stars": 16963
+                "stars": 16969
               }
             }
           ],
@@ -28,10 +28,10 @@
             "archived": false,
             "id": 2310495,
             "language": "C++",
-            "last_commit": "2026-08-25T18:56:43Z",
+            "last_commit": "2026-08-27T08:25:57Z",
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16963
+            "stars": 16969
           }
         },
         {
@@ -43,7 +43,7 @@
             "archived": false,
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-25T23:17:45Z",
+            "last_commit": "2026-08-27T11:59:47Z",
             "owner": "scylladb",
             "repo": "scylladb",
             "stars": 15723
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-22T00:45:06Z",
             "owner": "redpanda-data",
             "repo": "redpanda",
-            "stars": 12481
+            "stars": 12489
           }
         },
         {
@@ -260,10 +260,10 @@
             "archived": false,
             "id": 23061798,
             "language": "C++",
-            "last_commit": "2026-08-25T14:55:13Z",
+            "last_commit": "2026-08-26T20:01:53Z",
             "owner": "scylladb",
             "repo": "seastar",
-            "stars": 9342
+            "stars": 9343
           }
         },
         {
@@ -286,9 +286,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:59:08.899Z",
-    "original_repository": "dotnwat/awesome-seastar",
-    "original_repository_id": 340950460,
+    "last_updated": "2026-08-27T12:02:03.555Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 340950460,
+      "language": null,
+      "last_commit": "2025-08-21T14:17:02Z",
+      "owner": "dotnwat",
+      "repo": "awesome-seastar",
+      "stars": 107
+    },
     "original_repository_sha": "bf96284f56fd4e3005c2ee5b047c050dae6fd54d",
     "enhanced_repository": "enhansome/enhansome-seastar",
     "enhanced_repository_description": null,
