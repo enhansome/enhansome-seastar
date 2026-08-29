@@ -15,24 +15,76 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ceph is a distributed object, block, and file storage platform ",
+                "homepage": "https://ceph.io",
                 "id": 2310495,
                 "language": "C++",
-                "last_commit": "2026-08-28T14:00:40Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:54:10Z",
+                "open_issues": 1296,
                 "owner": "ceph",
                 "repo": "ceph",
-                "stars": 16975
+                "stars": 16975,
+                "topics": [
+                  "block-storage",
+                  "cloud-storage",
+                  "distributed-file-system",
+                  "distributed-storage",
+                  "erasure-coding",
+                  "fuse",
+                  "hdfs",
+                  "high-performance",
+                  "highly-available",
+                  "iscsi",
+                  "kubernetes",
+                  "nfs",
+                  "nvme-over-fabrics",
+                  "object-store",
+                  "posix",
+                  "replication",
+                  "s3",
+                  "smb",
+                  "software-defined-storage",
+                  "storage"
+                ]
               },
               "first_seen": "2026-08-28T15:15:23.861Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Ceph is a distributed object, block, and file storage platform ",
+            "homepage": "https://ceph.io",
             "id": 2310495,
             "language": "C++",
-            "last_commit": "2026-08-28T14:00:40Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:54:10Z",
+            "open_issues": 1296,
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16975
+            "stars": 16975,
+            "topics": [
+              "block-storage",
+              "cloud-storage",
+              "distributed-file-system",
+              "distributed-storage",
+              "erasure-coding",
+              "fuse",
+              "hdfs",
+              "high-performance",
+              "highly-available",
+              "iscsi",
+              "kubernetes",
+              "nfs",
+              "nvme-over-fabrics",
+              "object-store",
+              "posix",
+              "replication",
+              "s3",
+              "smb",
+              "software-defined-storage",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -43,12 +95,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",
+            "homepage": "http://scylladb.com",
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-28T12:02:54Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:59:28Z",
+            "open_issues": 3631,
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15723
+            "stars": 15724,
+            "topics": [
+              "c-plus-plus",
+              "cassandra",
+              "cpp",
+              "database",
+              "nosql",
+              "scylla",
+              "seastar"
+            ]
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -59,12 +124,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+            "homepage": "https://redpanda.com",
             "id": 309512982,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-22T00:45:06Z",
+            "open_issues": 546,
             "owner": "redpanda-data",
             "repo": "redpanda",
-            "stars": 12496
+            "stars": 12497,
+            "topics": [
+              "containers",
+              "cpp",
+              "event-driven",
+              "go",
+              "kafka",
+              "kubernetes",
+              "microservices",
+              "realtime",
+              "redpanda",
+              "seastar",
+              "storage-engine",
+              "stream-processing",
+              "streaming"
+            ]
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -75,12 +159,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NoSQL data store using the SEASTAR framework, compatible with Redis",
+            "homepage": null,
             "id": 64937427,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2019-10-02T13:50:45Z",
+            "open_issues": 26,
             "owner": "fastio",
             "repo": "1store",
-            "stars": 1329
+            "stars": 1329,
+            "topics": [
+              "nosql",
+              "redis",
+              "seastar"
+            ]
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -91,12 +184,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fastest RPC in the west",
+            "homepage": "http://smfrpc.github.io/smf/",
             "id": 49887371,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-12T05:44:31Z",
+            "open_issues": 33,
             "owner": "smfrpc",
             "repo": "smf",
-            "stars": 761
+            "stars": 761,
+            "topics": [
+              "cpp",
+              "fast",
+              "flatbuffers",
+              "rpc",
+              "seastar",
+              "smf"
+            ]
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -107,12 +212,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web framework written in c++ based on seastar framework",
+            "homepage": null,
             "id": 114583369,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-06-22T05:03:59Z",
+            "open_issues": 17,
             "owner": "cpv-project",
             "repo": "cpv-framework",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -123,12 +233,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hiactor is a distributed C++ actor framework.",
+            "homepage": null,
             "id": 490529025,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-14T09:02:12Z",
+            "open_issues": 6,
             "owner": "alibaba",
             "repo": "hiactor",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "actor-framework",
+              "actor-model",
+              "async",
+              "c-plus-plus",
+              "distributed",
+              "event-driven",
+              "seastar"
+            ]
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -139,12 +262,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In Memory Property Graph Server using a Shared Nothing design",
+            "homepage": "https://ragedb.com",
             "id": 383927661,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-13T15:13:09Z",
+            "open_issues": 22,
             "owner": "ragedb",
             "repo": "ragedb",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "database",
+              "graph",
+              "graphdatabase",
+              "graphdb",
+              "graphs",
+              "seastar"
+            ]
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -155,12 +290,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 261390196,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-04-01T01:01:25Z",
+            "open_issues": 37,
             "owner": "futurewei-cloud",
             "repo": "chogori-platform",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -171,12 +311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of Apache Parquet for Seastar projects",
+            "homepage": null,
             "id": 259503649,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-31T10:49:39Z",
+            "open_issues": 3,
             "owner": "michoecho",
             "repo": "parquet4seastar",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -192,24 +337,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 237715765,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-07-31T06:25:23Z",
+                "open_issues": 7,
                 "owner": "utah-scs",
                 "repo": "nanoservices",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:23.861Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper: Narrowing the Gap Between Serverless and its State with Storage Functions",
+            "homepage": null,
             "id": 278538992,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-07-10T04:37:22Z",
+            "open_issues": 1,
             "owner": "utah-scs",
             "repo": "shredder",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -220,12 +375,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An on-disk key-value database based on B-Link-Tree structure",
+            "homepage": null,
             "id": 358644047,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-07-06T17:33:56Z",
+            "open_issues": 6,
             "owner": "chungphb",
             "repo": "spiderdb",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "btree",
+              "key-value-database",
+              "seastar"
+            ]
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -236,12 +400,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A STUN server (RFC 8489) on Seastar + DPDK: kernel-bypass networking so packets never touch the Linux stack. Built for WebRTC NAT traversal.",
+            "homepage": null,
             "id": 470697991,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2022-03-23T15:32:59Z",
+            "open_issues": 0,
             "owner": "nguyenminh-phuc",
             "repo": "ministun",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "cpp",
+              "dpdk",
+              "kernel-bypass",
+              "nat",
+              "networking",
+              "seastar",
+              "stun",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -252,12 +430,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C++17 async client-server framework",
+            "homepage": null,
             "id": 347783006,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-04-05T03:17:06Z",
+            "open_issues": 0,
             "owner": "salahsheikh",
             "repo": "mithril",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "async",
+              "client",
+              "client-server",
+              "non-blocking",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         }
@@ -274,12 +463,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance server-side application framework",
+            "homepage": "http://seastar.io",
             "id": 23061798,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:09:49Z",
+            "open_issues": 578,
             "owner": "scylladb",
             "repo": "seastar",
-            "stars": 9345
+            "stars": 9346,
+            "topics": [
+              "aio",
+              "async",
+              "c-plus-plus",
+              "dpdk",
+              "seastar"
+            ]
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         },
@@ -290,12 +490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Seastar based brute",
+            "homepage": null,
             "id": 80857171,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-11-03T06:39:51Z",
+            "open_issues": 0,
             "owner": "VictorDenisov",
             "repo": "seabrute",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:23.861Z"
         }
@@ -304,15 +509,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:15:23.861Z",
+    "last_updated": "2026-08-29T04:58:07.032Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources related to Seastar, an industrial-grade C++ framework for building high-performance servers.",
+      "homepage": null,
       "id": 340950460,
       "language": null,
+      "license": null,
       "last_commit": "2025-08-21T14:17:02Z",
+      "open_issues": 1,
       "owner": "dotnwat",
       "repo": "awesome-seastar",
-      "stars": 107
+      "stars": 107,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "c-plus-plus",
+        "cpp",
+        "seastar"
+      ]
     },
     "original_repository_sha": "bf96284f56fd4e3005c2ee5b047c050dae6fd54d",
     "enhanced_repository": "enhansome/enhansome-seastar",
