@@ -20,11 +20,11 @@
                 "id": 2310495,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T04:54:10Z",
+                "last_commit": "2026-08-29T05:50:56Z",
                 "open_issues": 1296,
                 "owner": "ceph",
                 "repo": "ceph",
-                "stars": 16975,
+                "stars": 16977,
                 "topics": [
                   "block-storage",
                   "cloud-storage",
@@ -58,11 +58,11 @@
             "id": 2310495,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T04:54:10Z",
+            "last_commit": "2026-08-29T05:50:56Z",
             "open_issues": 1296,
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16975,
+            "stars": 16977,
             "topics": [
               "block-storage",
               "cloud-storage",
@@ -101,7 +101,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T22:59:28Z",
-            "open_issues": 3631,
+            "open_issues": 3632,
             "owner": "scylladb",
             "repo": "scylladb",
             "stars": 15724,
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:58:07.032Z",
+    "last_updated": "2026-08-29T09:57:41.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Seastar, an industrial-grade C++ framework for building high-performance servers.",

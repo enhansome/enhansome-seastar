@@ -24,9 +24,9 @@ You'll still need to install several system dependencies, but this set should re
 
 *Systems and projects using Seastar*
 
-* [Ceph](https://github.com/ceph/ceph) ⭐ 16,975 | 🐛 1,296 | 🌐 C++ | 📅 2026-08-29 - Distributed storage system for object, block, and file
-  * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson) ⭐ 16,975 | 🐛 1,296 | 🌐 C++ | 📅 2026-08-29
-* [Scylladb](https://github.com/scylladb/scylla) ⭐ 15,724 | 🐛 3,631 | 🌐 C++ | 📅 2026-08-28 - Replacement for Apache Cassandra and Amazon DynamoDB
+* [Ceph](https://github.com/ceph/ceph) ⭐ 16,977 | 🐛 1,296 | 🌐 C++ | 📅 2026-08-29 - Distributed storage system for object, block, and file
+  * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson) ⭐ 16,977 | 🐛 1,296 | 🌐 C++ | 📅 2026-08-29
+* [Scylladb](https://github.com/scylladb/scylla) ⭐ 15,724 | 🐛 3,632 | 🌐 C++ | 📅 2026-08-28 - Replacement for Apache Cassandra and Amazon DynamoDB
 * [Redpanda](https://github.com/redpanda-data/redpanda/) ⭐ 12,497 | 🐛 546 | 🌐 C++ | 📅 2026-08-22 - Replacement for Apache Kafka designed for modern hardware
 * [Pedis/1store](https://github.com/fastio/1store) ⭐ 1,329 | 🐛 26 | 🌐 C++ | 📅 2019-10-02 - Replacement for Redis written in Seastar
 * [SMF](https://github.com/smfrpc/smf) ⭐ 761 | 🐛 33 | 🌐 C++ | 📅 2023-04-12 - RPC framework built for microseconds latencies using Seastar
