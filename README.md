@@ -24,9 +24,9 @@ You'll still need to install several system dependencies, but this set should re
 
 *Systems and projects using Seastar*
 
-* [Ceph](https://github.com/ceph/ceph) ⭐ 17,055 | 🐛 1,451 | 🌐 C++ | 📅 2026-09-18 - Distributed storage system for object, block, and file
-  * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson) ⭐ 17,055 | 🐛 1,451 | 🌐 C++ | 📅 2026-09-18
-* [Scylladb](https://github.com/scylladb/scylla) ⭐ 15,766 | 🐛 3,681 | 🌐 C++ | 📅 2026-09-18 - Replacement for Apache Cassandra and Amazon DynamoDB
+* [Ceph](https://github.com/ceph/ceph) ⭐ 17,058 | 🐛 1,455 | 🌐 C++ | 📅 2026-09-20 - Distributed storage system for object, block, and file
+  * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson) ⭐ 17,058 | 🐛 1,455 | 🌐 C++ | 📅 2026-09-20
+* [Scylladb](https://github.com/scylladb/scylla) ⭐ 15,769 | 🐛 3,685 | 🌐 C++ | 📅 2026-09-20 - Replacement for Apache Cassandra and Amazon DynamoDB
 * [Redpanda](https://github.com/redpanda-data/redpanda/) ⭐ 12,555 | 🐛 526 | 🌐 C++ | 📅 2026-08-22 - Replacement for Apache Kafka designed for modern hardware
 * [Pedis/1store](https://github.com/fastio/1store) ⭐ 1,329 | 🐛 26 | 🌐 C++ | 📅 2019-10-02 - Replacement for Redis written in Seastar
 * [SMF](https://github.com/smfrpc/smf) ⭐ 762 | 🐛 33 | 🌐 C++ | 📅 2023-04-12 - RPC framework built for microseconds latencies using Seastar
@@ -46,7 +46,7 @@ You'll still need to install several system dependencies, but this set should re
 
 *Resources for learning Seastar*
 
-* [Official tutorial](https://github.com/scylladb/seastar/blob/master/doc/tutorial.md) ⭐ 9,367 | 🐛 589 | 🌐 C++ | 📅 2026-09-15 - a comprehensive tutorial from the creators of Seastar
+* [Official tutorial](https://github.com/scylladb/seastar/blob/master/doc/tutorial.md) ⭐ 9,370 | 🐛 587 | 🌐 C++ | 📅 2026-09-15 - a comprehensive tutorial from the creators of Seastar
 * [Seabrute](https://github.com/VictorDenisov/seabrute) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2017-11-03 - a selfstudy project for learning seastar by implementing distributed password bruteforce
 * [Seastar internals](https://makedist.com/projects/seastar-internals/) - is a series of deep dives into various Seastar components
 * [Asynchronous Programming with Seastar](http://nadav.harel.org.il/seastar/) - is a series of tutorials covering Seastar compnents
@@ -75,4 +75,4 @@ These appear to no longer exist :(
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
