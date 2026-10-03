@@ -24,8 +24,8 @@ You'll still need to install several system dependencies, but this set should re
 
 *Systems and projects using Seastar*
 
-* [Ceph](https://github.com/ceph/ceph) ⭐ 17,091 | 🐛 1,628 | 🌐 C++ | 📅 2026-10-03 - Distributed storage system for object, block, and file
-  * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson) ⭐ 17,091 | 🐛 1,628 | 🌐 C++ | 📅 2026-10-03
+* [Ceph](https://github.com/ceph/ceph) ⭐ 17,091 | 🐛 1,630 | 🌐 C++ | 📅 2026-10-03 - Distributed storage system for object, block, and file
+  * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson) ⭐ 17,091 | 🐛 1,630 | 🌐 C++ | 📅 2026-10-03
 * [Scylladb](https://github.com/scylladb/scylla) ⭐ 15,782 | 🐛 3,743 | 🌐 C++ | 📅 2026-10-03 - Replacement for Apache Cassandra and Amazon DynamoDB
 * [Redpanda](https://github.com/redpanda-data/redpanda/) ⭐ 12,590 | 🐛 522 | 🌐 C++ | 📅 2026-08-22 - Replacement for Apache Kafka designed for modern hardware
 * [Pedis/1store](https://github.com/fastio/1store) ⭐ 1,329 | 🐛 26 | 🌐 C++ | 📅 2019-10-02 - Replacement for Redis written in Seastar
@@ -46,7 +46,7 @@ You'll still need to install several system dependencies, but this set should re
 
 *Resources for learning Seastar*
 
-* [Official tutorial](https://github.com/scylladb/seastar/blob/master/doc/tutorial.md) ⭐ 9,383 | 🐛 581 | 🌐 C++ | 📅 2026-10-01 - a comprehensive tutorial from the creators of Seastar
+* [Official tutorial](https://github.com/scylladb/seastar/blob/master/doc/tutorial.md) ⭐ 9,384 | 🐛 581 | 🌐 C++ | 📅 2026-10-01 - a comprehensive tutorial from the creators of Seastar
 * [Seabrute](https://github.com/VictorDenisov/seabrute) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2017-11-03 - a selfstudy project for learning seastar by implementing distributed password bruteforce
 * [Seastar internals](https://makedist.com/projects/seastar-internals/) - is a series of deep dives into various Seastar components
 * [Asynchronous Programming with Seastar](http://nadav.harel.org.il/seastar/) - is a series of tutorials covering Seastar compnents

@@ -21,7 +21,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-03T04:33:48Z",
-                "open_issues": 1628,
+                "open_issues": 1630,
                 "owner": "ceph",
                 "repo": "ceph",
                 "stars": 17091,
@@ -59,7 +59,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T04:33:48Z",
-            "open_issues": 1628,
+            "open_issues": 1630,
             "owner": "ceph",
             "repo": "ceph",
             "stars": 17091,
@@ -100,7 +100,7 @@
             "id": 28449431,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T02:28:48Z",
+            "last_commit": "2026-10-03T07:38:06Z",
             "open_issues": 3743,
             "owner": "scylladb",
             "repo": "scylladb",
@@ -472,7 +472,7 @@
             "open_issues": 581,
             "owner": "scylladb",
             "repo": "seastar",
-            "stars": 9383,
+            "stars": 9384,
             "topics": [
               "aio",
               "async",
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:00.987Z",
+    "last_updated": "2026-10-03T09:03:33.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Seastar, an industrial-grade C++ framework for building high-performance servers.",
