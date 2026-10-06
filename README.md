@@ -24,8 +24,8 @@ You'll still need to install several system dependencies, but this set should re
 
 *Systems and projects using Seastar*
 
-* [Ceph](https://github.com/ceph/ceph) ⭐ 17,096 | 🐛 1,665 | 🌐 C++ | 📅 2026-10-06 - Distributed storage system for object, block, and file
-  * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson) ⭐ 17,096 | 🐛 1,665 | 🌐 C++ | 📅 2026-10-06
+* [Ceph](https://github.com/ceph/ceph) ⭐ 17,096 | 🐛 1,667 | 🌐 C++ | 📅 2026-10-06 - Distributed storage system for object, block, and file
+  * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson) ⭐ 17,096 | 🐛 1,667 | 🌐 C++ | 📅 2026-10-06
 * [Scylladb](https://github.com/scylladb/scylla) ⭐ 15,782 | 🐛 3,779 | 🌐 C++ | 📅 2026-10-06 - Replacement for Apache Cassandra and Amazon DynamoDB
 * [Redpanda](https://github.com/redpanda-data/redpanda/) ⭐ 12,598 | 🐛 521 | 🌐 C++ | 📅 2026-08-22 - Replacement for Apache Kafka designed for modern hardware
 * [Pedis/1store](https://github.com/fastio/1store) ⭐ 1,329 | 🐛 26 | 🌐 C++ | 📅 2019-10-02 - Replacement for Redis written in Seastar

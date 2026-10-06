@@ -20,8 +20,8 @@
                 "id": 2310495,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T07:55:38Z",
-                "open_issues": 1665,
+                "last_commit": "2026-10-06T10:34:14Z",
+                "open_issues": 1667,
                 "owner": "ceph",
                 "repo": "ceph",
                 "stars": 17096,
@@ -58,8 +58,8 @@
             "id": 2310495,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T07:55:38Z",
-            "open_issues": 1665,
+            "last_commit": "2026-10-06T10:34:14Z",
+            "open_issues": 1667,
             "owner": "ceph",
             "repo": "ceph",
             "stars": 17096,
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:05:52.080Z",
+    "last_updated": "2026-10-06T10:36:52.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Seastar, an industrial-grade C++ framework for building high-performance servers.",
