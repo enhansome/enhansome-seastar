@@ -21,10 +21,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T19:55:10Z",
-                "open_issues": 1692,
+                "open_issues": 1698,
                 "owner": "ceph",
                 "repo": "ceph",
-                "stars": 17103,
+                "stars": 17107,
                 "topics": [
                   "block-storage",
                   "cloud-storage",
@@ -59,10 +59,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T19:55:10Z",
-            "open_issues": 1692,
+            "open_issues": 1698,
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 17103,
+            "stars": 17107,
             "topics": [
               "block-storage",
               "cloud-storage",
@@ -100,11 +100,11 @@
             "id": 28449431,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T18:59:44Z",
-            "open_issues": 3813,
+            "last_commit": "2026-10-10T16:33:11Z",
+            "open_issues": 3821,
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15786,
+            "stars": 15787,
             "topics": [
               "c-plus-plus",
               "cassandra",
@@ -133,7 +133,7 @@
             "open_issues": 520,
             "owner": "redpanda-data",
             "repo": "redpanda",
-            "stars": 12599,
+            "stars": 12602,
             "topics": [
               "containers",
               "cpp",
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T09:42:44.761Z",
+    "last_updated": "2026-10-11T09:54:08.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Seastar, an industrial-grade C++ framework for building high-performance servers.",
