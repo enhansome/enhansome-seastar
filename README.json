@@ -20,11 +20,11 @@
                 "id": 2310495,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T03:18:09Z",
-                "open_issues": 1853,
+                "last_commit": "2026-11-01T07:48:56Z",
+                "open_issues": 1858,
                 "owner": "ceph",
                 "repo": "ceph",
-                "stars": 17184,
+                "stars": 17187,
                 "topics": [
                   "block-storage",
                   "cloud-storage",
@@ -58,11 +58,11 @@
             "id": 2310495,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T03:18:09Z",
-            "open_issues": 1853,
+            "last_commit": "2026-11-01T07:48:56Z",
+            "open_issues": 1858,
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 17184,
+            "stars": 17187,
             "topics": [
               "block-storage",
               "cloud-storage",
@@ -100,11 +100,11 @@
             "id": 28449431,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T09:01:45Z",
-            "open_issues": 2702,
+            "last_commit": "2026-11-01T10:16:47Z",
+            "open_issues": 2691,
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15813,
+            "stars": 15814,
             "topics": [
               "c-plus-plus",
               "cassandra",
@@ -133,7 +133,7 @@
             "open_issues": 513,
             "owner": "redpanda-data",
             "repo": "redpanda",
-            "stars": 12648,
+            "stars": 12651,
             "topics": [
               "containers",
               "cpp",
@@ -472,7 +472,7 @@
             "open_issues": 598,
             "owner": "scylladb",
             "repo": "seastar",
-            "stars": 9407,
+            "stars": 9406,
             "topics": [
               "aio",
               "async",
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T09:30:08.959Z",
+    "last_updated": "2026-11-01T10:20:28.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Seastar, an industrial-grade C++ framework for building high-performance servers.",
