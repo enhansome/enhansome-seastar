@@ -24,12 +24,12 @@ You'll still need to install several system dependencies, but this set should re
 
 *Systems and projects using Seastar*
 
-* [Ceph](https://github.com/ceph/ceph) ⭐ 17,223 | 🐛 1,996 | 🌐 C++ | 📅 2026-11-13 - Distributed storage system for object, block, and file
-  * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson) ⭐ 17,223 | 🐛 1,996 | 🌐 C++ | 📅 2026-11-13
-* [Scylladb](https://github.com/scylladb/scylla) ⭐ 15,834 | 🐛 2,654 | 🌐 C++ | 📅 2026-11-13 - Replacement for Apache Cassandra and Amazon DynamoDB
+* [Ceph](https://github.com/ceph/ceph) ⭐ 17,224 | 🐛 2,022 | 🌐 C++ | 📅 2026-11-13 - Distributed storage system for object, block, and file
+  * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson) ⭐ 17,224 | 🐛 2,022 | 🌐 C++ | 📅 2026-11-13
+* [Scylladb](https://github.com/scylladb/scylla) ⭐ 15,835 | 🐛 2,646 | 🌐 C++ | 📅 2026-11-14 - Replacement for Apache Cassandra and Amazon DynamoDB
 * [Redpanda](https://github.com/redpanda-data/redpanda/) ⚠️ Archived - Replacement for Apache Kafka designed for modern hardware
 * [Pedis/1store](https://github.com/fastio/1store) ⭐ 1,330 | 🐛 26 | 🌐 C++ | 📅 2019-10-02 - Replacement for Redis written in Seastar
-* [SMF](https://github.com/smfrpc/smf) ⭐ 763 | 🐛 33 | 🌐 C++ | 📅 2023-04-12 - RPC framework built for microseconds latencies using Seastar
+* [SMF](https://github.com/smfrpc/smf) ⭐ 764 | 🐛 33 | 🌐 C++ | 📅 2023-04-12 - RPC framework built for microseconds latencies using Seastar
 * [CPV](https://github.com/cpv-project/cpv-framework) ⭐ 122 | 🐛 17 | 🌐 C++ | 📅 2023-06-22 - Web framework written in C++ and Seastar
 * [Hiactor](https://github.com/alibaba/hiactor) ⭐ 119 | 🐛 6 | 🌐 C++ | 📅 2024-06-14 - Hiactor is a distributed actor framework.
 * [RageDB](https://github.com/ragedb/ragedb) ⭐ 52 | 🐛 22 | 🌐 C++ | 📅 2026-07-13 - In Memory Property Graph Server using the Shared Nothing design from Seastar
@@ -46,7 +46,7 @@ You'll still need to install several system dependencies, but this set should re
 
 *Resources for learning Seastar*
 
-* [Official tutorial](https://github.com/scylladb/seastar/blob/master/doc/tutorial.md) ⭐ 9,423 | 🐛 635 | 🌐 C++ | 📅 2026-11-10 - a comprehensive tutorial from the creators of Seastar
+* [Official tutorial](https://github.com/scylladb/seastar/blob/master/doc/tutorial.md) ⭐ 9,424 | 🐛 639 | 🌐 C++ | 📅 2026-11-10 - a comprehensive tutorial from the creators of Seastar
 * [Seabrute](https://github.com/VictorDenisov/seabrute) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2017-11-03 - a selfstudy project for learning seastar by implementing distributed password bruteforce
 * [Seastar internals](https://makedist.com/projects/seastar-internals/) - is a series of deep dives into various Seastar components
 * [Asynchronous Programming with Seastar](http://nadav.harel.org.il/seastar/) - is a series of tutorials covering Seastar compnents
@@ -75,4 +75,4 @@ These appear to no longer exist :(
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
